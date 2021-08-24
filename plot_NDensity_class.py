@@ -64,4 +64,4 @@ Long = mpatches.Patch(color='Magenta', hatch='.',
                       alpha=0.3, label='Long Period')
 plt.legend(handles=[UCXBs, Short, Medium, Long], loc=4)
 
-plt.savefig("Progen_Class_Wide.pdf")
+plt.savefig("Progen_Class.pdf")
